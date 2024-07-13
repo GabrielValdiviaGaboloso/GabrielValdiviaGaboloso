@@ -44,7 +44,7 @@ _____
 
 ##### Database
 
-[![My Skills](https://skillicons.dev/icons?i=py,mysql,mongodb)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,mongodb)](https://skillicons.dev)
 
 _____
 ##### Control de version
