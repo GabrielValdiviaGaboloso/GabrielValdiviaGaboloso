@@ -1,5 +1,5 @@
 ### Mi nombre es Gabriel Valdivia 👋
-#### Desarrollador full-stack con 3 años de experiencia 💻 actualmente en **búsqueda activa** de empleo♨️
+#### Desarrollador FrontEnd con 3 años de experiencia 💻 actualmente en **búsqueda activa** de empleo♨️
 
 
 
