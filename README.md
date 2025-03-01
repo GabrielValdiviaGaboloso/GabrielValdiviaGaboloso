@@ -53,9 +53,12 @@ _____
  ##### Others
 [![My Skills](https://skillicons.dev/icons?i=postman,npm,yarn,azure,vscode,ps,firebase,androidstudio,gcp,git,redux,jest)](https://skillicons.dev)
 
+<!--  
 | Proyecto Ionic  | Battleship-React  | Pronto  |
 |---|---|---|
-| <a href="https://user-images.githubusercontent.com/55467608/134275216-a14a857c-be09-4f22-be31-2729457ca14a.gif" target="_blank"> <img src="https://user-images.githubusercontent.com/55467608/134275216-a14a857c-be09-4f22-be31-2729457ca14a.gif" width="250" height="200"/></a> |   <a href="https://user-images.githubusercontent.com/55467608/134575418-2d1efc68-0b0f-43d9-b32f-803f502fac41.gif" target="_blank"> <img src="https://user-images.githubusercontent.com/55467608/134575418-2d1efc68-0b0f-43d9-b32f-803f502fac41.gif" width="250" height="200"/></a> |  <a href="" target="_blank"> <img src="" width="250" height="200"/></a>  |
+| <a href="https://user-images.githubusercontent.com/55467608/134275216-a14a857c-be09-4f22-be31-2729457ca14a.gif" target="_blank"> <img src="https://user-images.githubusercontent.com/55467608/134275216-a14a857c-be09-4f22-be31-2729457ca14a.gif" width="250" height="200"/></a> |   <a href="https://user-images.githubusercontent.com/55467608/134575418-2d1efc68-0b0f-43d9-b32f-803f502fac41.gif" target="_blank"> <img src="https://user-images.githubusercontent.com/55467608/134575418-2d1efc68-0b0f-43d9-b32f-803f502fac41.gif" width="250" height="200"/></a> |  <a href="" target="_blank"> <img src="" width="250" height="200"/></a>  
+-->
+
 
 
 #### ¿Hablamos?☕️
