@@ -46,12 +46,25 @@ _____
 
 [![My Skills](https://skillicons.dev/icons?i=py,mongodb)](https://skillicons.dev)
 
+##### Data Scientist Y Machine Learning
+[![Python](https://skillicons.dev/icons?i=python)](https://www.python.org/)
+[![Pandas](https://skillicons.dev/icons?i=pandas)](https://pandas.pydata.org/)
+[![Numpy](https://skillicons.dev/icons?i=numpy)](https://numpy.org/)
+[![Scikit-learn](https://skillicons.dev/icons?i=scikitlearn)](https://scikit-learn.org/)
+[![Matplotlib](https://skillicons.dev/icons?i=matplotlib)](https://matplotlib.org/)
+[![Seaborn](https://skillicons.dev/icons?i=seaborn)](https://seaborn.pydata.org/)
+[![XGBoost](https://skillicons.dev/icons?i=xgboost)](https://xgboost.readthedocs.io/)
+[![LightGBM](https://skillicons.dev/icons?i=lightgbm)](https://lightgbm.readthedocs.io/)
+[![Optuna](https://skillicons.dev/icons?i=optuna)](https://optuna.org/)
+[![Jupyter](https://skillicons.dev/icons?i=jupyter)](https://jupyter.org/)
+
 _____
 ##### Control de version
 [![My Skills](https://skillicons.dev/icons?i=gitlab,bitbucket)](https://skillicons.dev)
 _____
  ##### Others
 [![My Skills](https://skillicons.dev/icons?i=postman,npm,yarn,azure,vscode,ps,firebase,androidstudio,gcp,git,redux,jest)](https://skillicons.dev)
+
 
 <!--  
 | Proyecto Ionic  | Battleship-React  | Pronto  |
