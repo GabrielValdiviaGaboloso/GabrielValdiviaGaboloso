@@ -69,7 +69,10 @@
 ![Bitbucket](https://img.shields.io/badge/Bitbucket-0052CC?style=for-the-badge&logo=bitbucket&logoColor=white)
 
 ---
+#### ☁️ Cloud & DevOps
 
+![AWS](https://img.shields.io/badge/AWS%20Beginner-Learning%20REST%2FStart%20Services-orange?style=for-the-badge&logo=amazonaws&logoColor=white)
+---
 #### 🧰 Otras herramientas
 
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
