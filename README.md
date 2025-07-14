@@ -1,6 +1,6 @@
 ### 👋 Mi nombre es Gabriel Valdivia  
 #### 💻 Desarrollador FrontEnd con 3 años de experiencia — actualmente en **búsqueda activa** de empleo ♨️
-
+### Data Scientist Machine Learning
 ---
 
 #### 🔎 Actualmente me dedico a:
